@@ -1,0 +1,29 @@
+{
+  "name": "ionicLogService",
+  "version": "0.0.0",
+  "authors": [
+    "George Stocker <george@jewelbots.com>"
+  ],
+  "description": "Logging Service for Ionic.",
+  "main": "services.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ionic",
+    "logging",
+    "angular",
+    "log",
+    "logger",
+    "localstorage"
+  ],
+  "license": "MIT",
+  "homepage": "https://jewelbots.github.io/ionicLogService",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
